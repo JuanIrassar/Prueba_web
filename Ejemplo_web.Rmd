@@ -1,6 +1,6 @@
 ---
 title: "Ejemplo web"
-author: "Christian Ballejo"
+author: "Juan Irassar"
 date: "2023-03-29"
 output: html_document
 ---
